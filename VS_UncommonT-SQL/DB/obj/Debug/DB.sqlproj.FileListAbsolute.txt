@@ -1,0 +1,6 @@
+C:\Users\Muhammad.Maher\source\repos\AlShaffey\UncommonT-SQLusingSQLServer\VS_UncommonT-SQL\DB\bin\Debug\DB.dacpac
+C:\Users\Muhammad.Maher\source\repos\AlShaffey\UncommonT-SQLusingSQLServer\VS_UncommonT-SQL\DB\bin\Debug\DB.dll
+C:\Users\Muhammad.Maher\source\repos\AlShaffey\UncommonT-SQLusingSQLServer\VS_UncommonT-SQL\DB\bin\Debug\DB.pdb
+C:\Users\Muhammad.Maher\source\repos\AlShaffey\UncommonT-SQLusingSQLServer\VS_UncommonT-SQL\DB\obj\Debug\DB.sqlproj.AssemblyReference.cache
+C:\Users\Muhammad.Maher\source\repos\AlShaffey\UncommonT-SQLusingSQLServer\VS_UncommonT-SQL\DB\obj\Debug\DB.dll
+C:\Users\Muhammad.Maher\source\repos\AlShaffey\UncommonT-SQLusingSQLServer\VS_UncommonT-SQL\DB\obj\Debug\DB.pdb

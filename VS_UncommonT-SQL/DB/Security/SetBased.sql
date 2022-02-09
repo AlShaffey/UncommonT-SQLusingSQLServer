@@ -1,0 +1,4 @@
+﻿CREATE SCHEMA [SetBased]
+    AUTHORIZATION [dbo];
+
+

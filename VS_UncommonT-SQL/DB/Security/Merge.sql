@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [Merge]
+    AUTHORIZATION [dbo];
+
